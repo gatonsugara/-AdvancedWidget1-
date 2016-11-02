@@ -1,6 +1,6 @@
 #AdvancedWidget1
 
-    Tugas Android Intent 1
+    Tugas Android AdvancedWidget1
 
 #Identitas
 
